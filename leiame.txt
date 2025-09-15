@@ -1,0 +1,10 @@
+Integrantes do grupo:
+Enzo Farina      2311004
+Guilherme Santos 2211288
+Pedro Simas      2310970
+
+Classe que contém o método main: ChessGUI
+Localizado dentro da view
+
+Link para a visualização do vídeo
+https://drive.google.com/drive/folders/1TgE2Kayrd_EXheRYeEAwuR36rbd0scNX?usp=sharing
